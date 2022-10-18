@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokédexBlazor.Server", "Server\PokédexBlazor.Server.csproj", "{444913CF-8795-4B3F-B547-4A24957B040D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokédexBlazor.Client", "Client\PokédexBlazor.Client.csproj", "{F47514C1-AA4F-465F-A3D9-A7814D6EFFF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokédexBlazor.Shared", "Shared\PokédexBlazor.Shared.csproj", "{CEBA08B4-E1B3-4928-AD30-1EB5ACF84ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444913CF-8795-4B3F-B547-4A24957B040D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444913CF-8795-4B3F-B547-4A24957B040D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444913CF-8795-4B3F-B547-4A24957B040D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444913CF-8795-4B3F-B547-4A24957B040D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47514C1-AA4F-465F-A3D9-A7814D6EFFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47514C1-AA4F-465F-A3D9-A7814D6EFFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47514C1-AA4F-465F-A3D9-A7814D6EFFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47514C1-AA4F-465F-A3D9-A7814D6EFFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBA08B4-E1B3-4928-AD30-1EB5ACF84ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBA08B4-E1B3-4928-AD30-1EB5ACF84ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBA08B4-E1B3-4928-AD30-1EB5ACF84ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBA08B4-E1B3-4928-AD30-1EB5ACF84ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4230780E-75CA-4457-AE0E-200DEF976302}
+	EndGlobalSection
+EndGlobal
